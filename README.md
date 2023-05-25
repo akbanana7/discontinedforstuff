@@ -1,6 +1,3 @@
 # akbanana7.github.io
 ## A SoundBoard made by me, Akram.k
-> :Buttons
-> > :Button label=GitHub, url=https://github.com
->
-> > :Button label=NPM, url=https://npmjs.org
+<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
